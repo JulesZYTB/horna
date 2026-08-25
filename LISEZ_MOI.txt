@@ -1,0 +1,39 @@
+====================================================================
+                        ⚡ HORNA v1.0 PRO ⚡
+                     Extracteur & Filtre de Données
+                              By MrX
+====================================================================
+
+Bienvenue dans Horna v1.0 Pro, l'application haute performance d'extraction, 
+de filtrage et de gestion de logs texte.
+
+--------------------------------------------------------------------
+🚀 GUIDE DE DÉMARRAGE RAPIDE
+--------------------------------------------------------------------
+1. Lancez directement l'application "Horna.exe".
+2. Lors du premier lancement, créez votre Mot de Passe Maître sécurisé.
+3. Sélectionnez le fichier .txt ou le dossier source à analyser.
+4. Choisissez vos critères d'extraction (Mots-clés, Liste de Domaines, Format, Threads).
+5. Cliquez sur "▶ Démarrer" pour lancer l'analyse ultra-rapide.
+
+--------------------------------------------------------------------
+🔒 SÉCURITÉ & FONCTIONNALITÉS PRO (APPLICATION 100% AUTONOME)
+--------------------------------------------------------------------
+• Application 100% Standalone (Logo et Icône directement intégrés au binaire .exe).
+• Aucun dossier externe "assets" requis.
+• Mot de Passe Maître avec Hashage SHA-256 et Salt unique.
+• Protection Anti-Capture d'écran & Anti-Screen-Recorder pour Windows.
+• Moteur Multi-Threading découpant les fichiers volumineux sur tous vos cœurs CPU.
+• Explorateur de Résultats avec Pagination 60 FPS (Zéro Freeze).
+• Copie 1-Clic d'identifiants et Notifications Toasts.
+• Réinitialisation d'Usine Globale avec Purge de Sécurité.
+
+--------------------------------------------------------------------
+📁 CONTENU DU DOSSIER DE PARTAGE
+--------------------------------------------------------------------
+• Horna.exe              : Application principale 100% autonome.
+• LISEZ_MOI.txt          : Notice et instructions d'utilisation.
+
+====================================================================
+                   Developed with ❤️ By MrX
+====================================================================
