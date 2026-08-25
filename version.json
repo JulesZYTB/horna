@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "download_url": "https://raw.githubusercontent.com/JulesZYTB/horna/main/Horna.exe",
-  "changelog": "Version 1.0.0 Pro - Accélération SIMD AVX2, Support 5 langues, Télémétrie en temps réel, Webhooks Discord & BloumeChat."
+  "changelog": "Version 1.0.1 Pro - Redesign complet du Panneau des Paramètres, optimisations plein écran et corrections UI."
 }
