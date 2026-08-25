@@ -1,0 +1,4 @@
+# Ignore binary release files on main git branch (published exclusively via GitHub Releases)
+*.exe
+*.zip
+*.pdb
