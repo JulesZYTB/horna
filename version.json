@@ -1,5 +1,5 @@
 {
-  "version": "1.0.2",
-  "download_url": "https://github.com/JulesZYTB/horna/releases/download/v1.0.2/Horna.exe",
-  "changelog": "Version 1.0.2 Pro - Correctif majeur du moteur d'extraction multi-formats, élimination des faux positifs de nommage et déploiement via GitHub Releases auto-taguées."
+  "version": "1.0.3",
+  "download_url": "https://github.com/JulesZYTB/horna/releases/download/v1.0.3/Horna.exe",
+  "changelog": "Version 1.0.3 Pro - Elimination définitive des préfixes de protocole (http/https/android), filtrage strict des tokens et extraction parfaite des identifiants sans corruption."
 }
