@@ -1,5 +1,5 @@
 {
-  "version": "1.1.1",
-  "download_url": "https://github.com/JulesZYTB/horna/releases/download/v1.1.1/Horna.exe",
-  "changelog": "Version 1.1.1 Pro - Compteur dynamique d'utilisateurs en ligne avec incrémentation à l'ouverture (+1) et décrémentation automatique lors de la fermeture de l'application (-1)."
+  "version": "1.1.2",
+  "download_url": "https://github.com/JulesZYTB/horna/releases/download/v1.1.2/Horna.exe",
+  "changelog": "Version 1.1.2 Pro - Clé d'utilisateurs réinitialisée à zéro (horna_v2_live_online_users) et suppression des incrémentations répétées en boucle. Le heartbeat +1 ne s'exécute désormais qu'une seule fois au démarrage."
 }
