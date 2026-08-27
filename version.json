@@ -1,5 +1,5 @@
 {
-  "version": "1.0.3",
-  "download_url": "https://github.com/JulesZYTB/horna/releases/download/v1.0.3/Horna.exe",
-  "changelog": "Version 1.0.3 Pro - Elimination définitive des préfixes de protocole (http/https/android), filtrage strict des tokens et extraction parfaite des identifiants sans corruption."
+  "version": "1.0.4",
+  "download_url": "https://github.com/JulesZYTB/horna/releases/download/v1.0.4/Horna.exe",
+  "changelog": "Version 1.0.4 Pro - Compteur d'utilisateurs en ligne en direct (sans backend) et statistiques globales de communauté (lignes scannées, fichiers traités, extractions réussies)."
 }
