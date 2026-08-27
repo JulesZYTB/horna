@@ -1,5 +1,5 @@
 {
-  "version": "1.0.8",
-  "download_url": "https://github.com/JulesZYTB/horna/releases/download/v1.0.8/Horna.exe",
-  "changelog": "Version 1.0.8 Pro - Correctif du remplacement du fichier exécutable : arrêt forcé du processus par PID, boucle d'essai du script de remplacement batch, et fermeture propre du binaire précédent."
+  "version": "1.0.9",
+  "download_url": "https://github.com/JulesZYTB/horna/releases/download/v1.0.9/Horna.exe",
+  "changelog": "Version 1.0.9 Pro - Bipasse de cache CDN GitHub via paramètres d'horodatage, désactivation complète des onglets de navigation en cas de mise à jour obligatoire, et refonte complète de la page Statistiques avec formatage des grands nombres et cartes modernes."
 }
