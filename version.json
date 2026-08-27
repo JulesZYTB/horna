@@ -1,5 +1,5 @@
 {
-  "version": "1.1.0",
-  "download_url": "https://github.com/JulesZYTB/horna/releases/download/v1.1.0/Horna.exe",
-  "changelog": "Version 1.1.0 Pro - Intégration de l'API de statistiques globales https://countapi.mileshilliard.com/ v1 pour la synchronisation mondiale en temps réel de tous les utilisateurs, lignes scannées, fichiers traités et extractions réussies."
+  "version": "1.1.1",
+  "download_url": "https://github.com/JulesZYTB/horna/releases/download/v1.1.1/Horna.exe",
+  "changelog": "Version 1.1.1 Pro - Compteur dynamique d'utilisateurs en ligne avec incrémentation à l'ouverture (+1) et décrémentation automatique lors de la fermeture de l'application (-1)."
 }
