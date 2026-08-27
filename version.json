@@ -1,5 +1,5 @@
 {
-  "version": "1.0.5",
-  "download_url": "https://github.com/JulesZYTB/horna/releases/download/v1.0.5/Horna.exe",
-  "changelog": "Version 1.0.5 Pro - Nouvel onglet dédié aux Statistiques Communautaires avec rafraîchissement manuel en direct, et système de mise à jour OBLIGATOIRE bloquant déclenché uniquement après la connexion."
+  "version": "1.0.6",
+  "download_url": "https://github.com/JulesZYTB/horna/releases/download/v1.0.6/Horna.exe",
+  "changelog": "Version 1.0.6 Pro - Moteur de télémétrie ultra-fiable avec accumulateurs atomiques persistants (lignes scannées, fichiers traités et extractions réussies enregistrées et rafraîchies instantanément)."
 }
