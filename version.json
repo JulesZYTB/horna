@@ -1,5 +1,5 @@
 {
-  "version": "1.1.4",
-  "download_url": "https://github.com/JulesZYTB/horna/releases/download/v1.1.4/Horna.exe",
-  "changelog": "Version 1.1.4 Pro - Déduplication matérielle du compteur d'utilisateurs en ligne par empreinte HWID unique et correction de l'addition des grands volumes de lignes scannées (contournement de la limite CountAPI 1-100 via update set)."
+  "version": "1.1.5",
+  "download_url": "https://github.com/JulesZYTB/horna/releases/download/v1.1.5/Horna.exe",
+  "changelog": "Version 1.1.5 Pro - Support des formats d'identifiants étiquetés (Login: user | Password: pass, user=foo&pass=bar), prise en charge des séparateurs CSV (virgule), et harmonisation complète du Design System UI Horna (icones vectorielles, constantes de thème et animations)."
 }
