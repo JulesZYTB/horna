@@ -1,5 +1,5 @@
 {
-  "version": "1.1.5",
-  "download_url": "https://github.com/JulesZYTB/horna/releases/download/v1.1.5/Horna.exe",
-  "changelog": "Version 1.1.5 Pro - Support des formats d'identifiants étiquetés (Login: user | Password: pass, user=foo&pass=bar), prise en charge des séparateurs CSV (virgule), et harmonisation complète du Design System UI Horna (icones vectorielles, constantes de thème et animations)."
+  "version": "1.1.6",
+  "download_url": "https://github.com/JulesZYTB/horna/releases/download/v1.1.6/Horna.exe",
+  "changelog": "Version 1.1.6 Pro — Reprise d'extraction interrompue (checkpoint automatique), notifications natives Windows (Centre de notifications), nettoyage automatique configurable des anciennes extractions. Sécurité renforcée : mot de passe maître migré de SHA-256 vers PBKDF2-HMAC-SHA256 (600 000 itérations, migration transparente des comptes existants), sel et identifiant d'installation générés avec une vraie entropie système. Correction du compteur d'utilisateurs en ligne (décrément désormais fiable à la fermeture de l'application). Traduction complète en 5 langues, états vides avec icônes vectorielles et équilibrage visuel de l'Explorateur de Résultats."
 }
