@@ -21,3 +21,4 @@ Dépôt officiel des releases et mises à jour de l'application **Horna**.
 - 🌐 **Support Multilingue** (Français 🇫🇷, English 🇬🇧, Español 🇪🇸, Русский 🇷🇺, Deutsch 🇩🇪).
 - 🔔 **Notifications Webhooks** Discord & BloumeChat.
 - 🛡️ **Protection Windows Anti-Capture d'Écran**.
+- 🗂️ **Onglet Nos Outils** dynamique et **Système d'Annonces & Avis** intégrés.
