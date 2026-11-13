@@ -1,5 +1,5 @@
 {
-  "version": "2.0.0",
-  "download_url": "https://github.com/JulesZYTB/horna/releases/download/v2.0.0/Horna.exe",
-  "changelog": "Version 2.0.0 Pro — Refonte majeure de la télémétrie et de l'administration : migration complète vers un backend Supabase avec suivi réel par installation (HWID, en ligne/hors ligne, statistiques individuelles). Panel administrateur enrichi (onglets Stats, Outils, Annonces, Avis, Flags) permettant de gérer dynamiquement la liste des Outils, publier des annonces in-app, consulter les avis utilisateurs (1 par installation), et activer/désactiver 17 fonctionnalités de l'extracteur à distance sans nouvelle version — avec indicateur visuel rouge clignotant sur les options désactivées. Sécurité renforcée de bout en bout : accès administrateur protégé par IP fixe ET jeton secret vérifiés côté serveur (testé en conditions réelles via proxy), validation stricte du format des identifiants d'installation, et rate-limiting par IP contre les abus/spam. Correction d'un bug d'affichage où la liste de domaines filtrés ne revenait pas correctement à la ligne. Panel administrateur et fonctionnalités de retour utilisateur traduits dans les 5 langues."
+  "version": "2.0.1",
+  "download_url": "https://github.com/JulesZYTB/horna/releases/download/v2.0.1/Horna.exe",
+  "changelog": "Version 2.0.1 Pro — Mise à jour de maintenance : mise à jour de la configuration d'accès administrateur et consolidation de la version 2.0.0 (télémétrie Supabase, panel d'administration, feature flags, système d'annonces et d'avis, sécurité renforcée)."
 }
